@@ -2,7 +2,7 @@
 
 📚 I'm currently a MSc Finance student at Tilburg University, and I have recently defended my thesis titled "Is Startup Success Predictable? New Evidence Based on Machine Learning" in which I leveraged machine learning to develop a tool for identifying successful startups. My main focus was Logistic Regression, Decision Tree, and Random Forest models, as well as interpretation techniques like LIME and SHAP.
 
-💻 I am a research assistant at [Tilburg Science Hub](https://tilburgsciencehub.com) where we help individual researchers, data scientists and their teams to efficiently work on empirical research projects. Our platform provides information about workflow and data management and tutorials that teach researchers how to organize and document their data and code. That way, our research becomes sustainable and reproducible, leading to time savings and transparency.
+💻 I am also a research assistant at [Tilburg Science Hub](https://tilburgsciencehub.com) where we help individual researchers, data scientists and their teams to efficiently work on empirical research projects. Our platform provides information about workflow and data management and tutorials that teach researchers how to organize and document their data and code. That way, our research becomes sustainable and reproducible, leading to time savings and transparency.
 
 
 
